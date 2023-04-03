@@ -2,10 +2,10 @@
 This is a virtual DJ drum kit created using HTML, CSS, and JavaScript. It allows users to create beats and rhythms using various drum sounds and effects, making it a convenient tool for musicians and DJs to experiment with and create their own music.
 
 # Features
-7 different drum sounds, including kick, snare, hi-hat, cymbals, and more
-Interactive UI with clickable drum pads and buttons
-Effects such as delay and reverb to add depth and texture to your beats
-Responsive design that works on desktop and mobile devices
+7 different drum sounds, including kick, snare, hi-hat, cymbals, and more.
+Interactive UI with clickable drum pads and buttons.
+Effects such as delay and reverb to add depth and texture to your beats.
+Responsive design that works on desktop and mobile devices.
 
 # play
 
