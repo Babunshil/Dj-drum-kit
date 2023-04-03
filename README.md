@@ -19,3 +19,6 @@ To install and run the DJ Drum Kit locally, follow these steps:
 * Start creating your own beats and rhythms!
 # Contributing
 If you would like to contribute to the DJ Drum Kit project, feel free to submit a pull request. All contributions are welcome!
+
+# theme
+![Screenshot 2023-04-04 024838](https://user-images.githubusercontent.com/106283743/229629941-00a11afc-a57d-4648-852e-d3e060437263.png)
